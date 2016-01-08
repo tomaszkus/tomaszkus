@@ -3,7 +3,7 @@
 title: Mindful programming
 email: tomekkus84@gmail.com
 description: >
-    Development in broadest sense: from low level technical details to team building and cooperation.
+    Development in broadest sense - from low level technical details to team building and cooperation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tomaszkus.pl" # the base hostname & protocol for your site
 twitter_username: kus_tomasz
@@ -11,3 +11,7 @@ github_username:  tomaszkus
 
 # Build settings
 markdown: kramdown
+
+sass:
+  sass_dir: /assets/stylesheets
+  style: compressed

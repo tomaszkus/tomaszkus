@@ -3,6 +3,7 @@ layout: post
 title:  "Crimson Tide – a lot of fun with simple game"
 date:   2014-12-07
 categories: other team
+summary: Summary
 ---
 
 Several weeks ago at our team party we had a simple competition.

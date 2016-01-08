@@ -3,6 +3,7 @@ layout: post
 title:  "How to make Visual Studio \"IntelliJ like\""
 date:   2015-12-18
 categories: tools ide
+summary: summary
 ---
 
 I've spend last years developing Java and Node.js applications using mostly IntelliJ and WebStorm. Some time ago I started 

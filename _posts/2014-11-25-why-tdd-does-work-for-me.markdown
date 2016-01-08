@@ -3,7 +3,7 @@ layout: post
 title:  "Why TDD does work for me?"
 date:   2014-11-25
 categories: development tdd
-summary: summary
+summary: TDD is still alive. I'd like to tell you about benefits from using it in my work...
 ---
 
 I’ve seen recently very inspiring video with [speech given by Erik Meijer](http://vimeo.com/110554082).

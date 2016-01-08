@@ -3,7 +3,7 @@ layout: post
 title:  "How have I switched to Jekyll and GitHub pages"
 date:   2015-11-22
 categories: other blog
-summary: summary
+summary: Do you want to have your own blog? With Jekyll and GitHub pages it is easier than you think to prepare and lead it.
 ---
 
 I has been planning to switch by blog to [Jekyll](http://jekyllrb.com/) (simple static site generator) and start 

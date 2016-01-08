@@ -3,7 +3,7 @@ layout: post
 title:  "Crimson Tide – a lot of fun with simple game"
 date:   2014-12-07
 categories: other team
-summary: Summary
+summary: How much time do you need to prepare simple but playable game? With good idea and node.js no more than several hours.
 ---
 
 Several weeks ago at our team party we had a simple competition.

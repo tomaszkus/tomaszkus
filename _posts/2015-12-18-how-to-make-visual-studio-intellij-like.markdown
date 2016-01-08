@@ -3,7 +3,7 @@ layout: post
 title:  "How to make Visual Studio \"IntelliJ like\""
 date:   2015-12-18
 categories: tools ide
-summary: summary
+summary: Are you familiar with IDEs for JetBrains but must work with Visual Studio? It is not a problem.
 ---
 
 I've spend last years developing Java and Node.js applications using mostly IntelliJ and WebStorm. Some time ago I started 

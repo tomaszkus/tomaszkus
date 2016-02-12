@@ -115,7 +115,7 @@ that they are still green after refactor.
 
 Steps 2-4 should be repeated until whole functionality is implemented.
 
-n. The last step is verification that feature test is green. To do it you need to merge changes from *autofac* branch 
+n) The last step is verification that feature test is green. To do it you need to merge changes from *autofac* branch 
 (in case of conflict in *.csproj file please include changes from both branches) where
 dependency injection and choosing calculator basing on *flat* flag is implemented (you can also do it yourself if you want).
 
